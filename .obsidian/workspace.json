@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "6fff3e38e46feaed",
+        "id": "30563a047b69db3b",
         "type": "tabs",
         "children": [
           {
-            "id": "0fed6eb81fdd78bb",
+            "id": "6f82c880226267c2",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "_posts/2024-10-11-工作环境配置.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "_posts/2024-10-11-工作环境配置.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "_posts/2024-10-11-工作环境配置.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "_posts/2024-10-11-工作环境配置.md"
+              }
             }
           }
         ]
@@ -136,11 +144,15 @@
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "oz-clear-unused-images:Clear Unused Images": false
+      "oz-clear-unused-images:Clear Unused Images": false,
+      "hidden-folder-obsidian:显示文件夹": false
     }
   },
-  "active": "0fed6eb81fdd78bb",
+  "active": "6f82c880226267c2",
   "lastOpenFiles": [
+    "README.md",
+    "_posts/2024-10-11-工作环境配置.md",
+    "assets/blog_res/2024-10-11-工作环境配置.assets/Pasted image 20241010115850.png",
     "assets/img/favicons/Utitled.md",
     "assets/img/favicons/android-chrome-192x192.png",
     "_posts/2024-10-13.md",
@@ -151,13 +163,10 @@
     "assets/img/favicons/favicon-32x32.png",
     "assets/blog_res/2024-10-13.assets",
     "assets/blog_res/2024-10-13.assets/IMG-20241011163417495.png",
-    "README.md",
     "_tabs/about.md",
     "_posts/assets/2024-10-13/file-20241011161809431.png",
     "_posts/assets/2024-10-13",
     "_posts/assets",
-    "_posts/assets/2024-10-13/file-20241011161657303.png",
-    "_posts/assets/2024-10-13/file-20241011161623472.png",
-    "_posts/2024-10-11-工作环境配置.md"
+    "_posts/assets/2024-10-13/file-20241011161657303.png"
   ]
 }
