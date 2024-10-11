@@ -1,0 +1,14 @@
+{
+  "attachmentFolderPath": "../assets/blog_res/${filename}.assets",
+  "useMarkdownLinks": true,
+  "showLineNumber": true,
+  "alwaysUpdateLinks": true,
+  "userIgnoreFilters": [
+    "tools/",
+    "_plugins/",
+    "_data/",
+    "_tabs/"
+  ],
+  "newFileLocation": "folder",
+  "newFileFolderPath": "_posts"
+}

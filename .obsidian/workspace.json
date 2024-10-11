@@ -1,0 +1,163 @@
+{
+  "main": {
+    "id": "00923d3ad9ea8535",
+    "type": "split",
+    "children": [
+      {
+        "id": "6fff3e38e46feaed",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0fed6eb81fdd78bb",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "61ab9138b46c2957",
+    "type": "split",
+    "children": [
+      {
+        "id": "507ef45d1d2d7ced",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "143253a2fc11305f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "96e9f53283ef7900",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1df474a07f373400",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "655744a564733b62",
+    "type": "split",
+    "children": [
+      {
+        "id": "c09022f8103cfb52",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a9d595deb5437fe7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "121be1a9fc342392",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "73ce5b6d44dae799",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "8e4160c8477dafe4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "oz-clear-unused-images:Clear Unused Images": false
+    }
+  },
+  "active": "0fed6eb81fdd78bb",
+  "lastOpenFiles": [
+    "assets/img/favicons/Utitled.md",
+    "assets/img/favicons/android-chrome-192x192.png",
+    "_posts/2024-10-13.md",
+    "assets/img/favicons/favicon-16x16.png",
+    "assets/img/favicons/apple-touch-icon.png",
+    "assets/img/favicons/android-chrome-512x512.png",
+    "assets/img/favicons/mstile-150x1500.png",
+    "assets/img/favicons/favicon-32x32.png",
+    "assets/blog_res/2024-10-13.assets",
+    "assets/blog_res/2024-10-13.assets/IMG-20241011163417495.png",
+    "README.md",
+    "_tabs/about.md",
+    "_posts/assets/2024-10-13/file-20241011161809431.png",
+    "_posts/assets/2024-10-13",
+    "_posts/assets",
+    "_posts/assets/2024-10-13/file-20241011161657303.png",
+    "_posts/assets/2024-10-13/file-20241011161623472.png",
+    "_posts/2024-10-11-工作环境配置.md"
+  ]
+}

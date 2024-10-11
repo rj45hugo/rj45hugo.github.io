@@ -1,0 +1,18 @@
+{
+  "attachPath": {
+    "attachmentRoot": "/assets/blog_res",
+    "saveAttE": "inFolderBelow",
+    "attachmentPath": "/${notename}.assets",
+    "attachFormat": "IMG-${date}",
+    "type": "GLOBAL"
+  },
+  "dateFormat": "YYYYMMDDHHmmssSSS",
+  "excludeExtensionPattern": "",
+  "autoRenameAttachment": true,
+  "excludedPaths": "",
+  "excludePathsArray": [],
+  "excludeSubpaths": false,
+  "originalNameStorage": [],
+  "overridePath": {},
+  "disableNotification": false
+}
