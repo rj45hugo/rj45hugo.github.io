@@ -14,9 +14,9 @@ timezone: Asia/Shanghai
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: rj45lee # the main title
+title: rj45hugo的个人博客 # the main title
 
-tagline: 这里是rj45lee的个人博客~ # it will display as the subtitle
+tagline: 这里是rj45hugo的个人博客~ # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   这是通过Chirpy主题配置而成的
@@ -26,7 +26,7 @@ description: >- # used by seo meta and the atom feed
 url: ""
 
 github:
-  username: rj45lee # change to your GitHub username
+  username: rj45hugo # change to your GitHub username
 
 twitter:
   username: twitter_username # change to your Twitter username
@@ -34,11 +34,11 @@ twitter:
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: rj45lee
+  name: rj45hugo
   email: 2650583860@qq.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://github.com/rj45lee # change to your GitHub homepage
+    - https://github.com/rj45hugo # change to your GitHub homepage
     - https://twitter.com/username # change to your Twitter homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
