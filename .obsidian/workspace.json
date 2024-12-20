@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "394e40f6fc130db6",
+        "id": "9de8cbd0cb69c5c4",
         "type": "tabs",
         "children": [
           {
-            "id": "6e4bbd2043daf27f",
+            "id": "9514c725411f0a7a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_posts/2024-10-11-工作环境配置.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "2024-10-11-工作环境配置"
+              "title": "新标签页"
             }
           }
         ]
@@ -93,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2024-10-11-工作环境配置.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +98,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "2024-10-11-工作环境配置 的反向链接列表"
+              "title": "反向链接"
             }
           },
           {
@@ -160,23 +155,22 @@
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
       "oz-clear-unused-images:Clear Unused Images": false,
-      "hidden-folder-obsidian:显示文件夹": false
+      "hidden-folder-obsidian:隐藏文件夹": false
     }
   },
-  "active": "6e4bbd2043daf27f",
+  "active": "9514c725411f0a7a",
   "lastOpenFiles": [
+    "assets/blog_res/2024-10-11-工作环境配置.assets/Snipaste_2024-12-20_21-14-35.png",
+    "_posts/2024-10-11-工作环境配置.md",
+    "assets/blog_res/2024-10-11-工作环境配置.assets/Snipaste_2024-12-20_21-14-35.jpg",
+    "assets/blog_res/2024-10-11-工作环境配置.assets/Snipaste_2024-12-20_21-12-27.jpg",
     "assets/blog_res/2024-10-11-工作环境配置.assets/IMG-20241220204138407.png",
+    "assets/blog_res/2024-10-11-工作环境配置.assets/Pasted image 20241010113836.png",
+    "assets/blog_res/2024-10-11-工作环境配置.assets/Pasted image 20241010114112.png",
     "assets/blog_res/2024-10-11-工作环境配置.assets/Pasted image 20241010002829.png",
     "assets/blog_res/2024-10-11-工作环境配置.assets/Pasted image 20241010002848.png",
     "assets/blog_res/2024-10-11-工作环境配置.assets/Pasted image 20241010113752.png",
     "assets/blog_res/2024-10-11-工作环境配置.assets/Pasted image 20241010113810.png",
-    "assets/blog_res/2024-10-11-工作环境配置.assets/Pasted image 20241010113836.png",
-    "assets/blog_res/2024-10-11-工作环境配置.assets/Pasted image 20241010114112.png",
-    "assets/blog_res/2024-10-11-工作环境配置.assets/Pasted image 20241010114151.png",
-    "assets/blog_res/2024-10-11-工作环境配置.assets/Pasted image 20241010115703.png",
-    "assets/blog_res/2024-10-11-工作环境配置.assets/Pasted image 20241010115811.png",
-    "assets/blog_res/2024-10-11-工作环境配置.assets/Pasted image 20241010115850.png",
-    "_posts/2024-10-11-工作环境配置.md",
     "README.md",
     "assets/img/favicons/Utitled.md",
     "_posts/2024-10-13.md",
