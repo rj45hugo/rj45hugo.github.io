@@ -1,5 +1,5 @@
 {
-  "attachmentFolderPath": "../assets/blog_res/${filename}.assets",
+  "attachmentFolderPath": "/",
   "useMarkdownLinks": true,
   "showLineNumber": true,
   "alwaysUpdateLinks": true,
@@ -11,5 +11,6 @@
     "assets/"
   ],
   "newFileLocation": "folder",
-  "newFileFolderPath": "_posts"
+  "newFileFolderPath": "_posts",
+  "newLinkFormat": "shortest"
 }
