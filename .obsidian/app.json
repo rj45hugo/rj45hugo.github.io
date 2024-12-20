@@ -1,6 +1,6 @@
 {
   "attachmentFolderPath": "/",
-  "useMarkdownLinks": false,
+  "useMarkdownLinks": true,
   "showLineNumber": true,
   "alwaysUpdateLinks": true,
   "userIgnoreFilters": [

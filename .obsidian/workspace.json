@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "7a2c597234e8e527",
+        "id": "10a255ae07ac061a",
         "type": "tabs",
         "children": [
           {
-            "id": "0c4c0ee2a41a7d43",
+            "id": "8a5f49656601546f",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,21 +20,8 @@
               "icon": "lucide-file",
               "title": "2024-10-11-工作环境配置"
             }
-          },
-          {
-            "id": "a7a52a41fd27c4e8",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "assets/blog_res/2024-10-11-工作环境配置.assets/IMG-20241220232823439.png"
-              },
-              "icon": "lucide-image",
-              "title": "IMG-20241220232823439"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "assets/blog_res/2024-10-11-工作环境配置.assets/IMG-20241220232823439.png",
+                "file": "_posts/2024-10-11-工作环境配置.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "IMG-20241220232823439 的反向链接列表"
+              "title": "2024-10-11-工作环境配置 的反向链接列表"
             }
           },
           {
@@ -176,12 +163,15 @@
       "hidden-folder-obsidian:隐藏文件夹": false
     }
   },
-  "active": "a7a52a41fd27c4e8",
+  "active": "8a5f49656601546f",
   "lastOpenFiles": [
-    "_posts/2024-10-11-工作环境配置.md",
     "assets/blog_res/2024-10-11-工作环境配置.assets/IMG-20241220232823439.png",
-    "assets/blog_res/2024-10-11-工作环境配置.assets/IMG-20241220232638430.png",
+    "_posts/2024-10-11-工作环境配置.md",
+    "_posts/().md",
+    "assets/blog_res/2024-10-11-工作环境配置.assets/IMG-20241220233026865.png",
     "assets/blog_res/2024-10-11-工作环境配置.assets/Pasted image 20241010115850.png",
+    "Pasted image 20241220232956.png",
+    "assets/blog_res/2024-10-11-工作环境配置.assets/IMG-20241220232638430.png",
     "assets/blog_res/2024-10-11-工作环境配置.assets/IMG-20241220232446347.png",
     "_posts/2024-12-20-测试.md",
     "assets/blog_res/2024-12-20-测试.assets",
@@ -194,8 +184,6 @@
     "个人博客/assets/blog_res",
     "个人博客/assets",
     "个人博客",
-    "个人博客/assets/blog_res/2024-12-20-测试.assets/IMG-20241220232154567.png",
-    "assets/blog_res/2024-12-20-测试.assets/IMG-20241220232121295.png",
     "README.md",
     "assets/img/favicons/Utitled.md",
     "_posts/2024-10-13.md",
