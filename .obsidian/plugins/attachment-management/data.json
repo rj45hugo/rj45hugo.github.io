@@ -4,7 +4,8 @@
     "saveAttE": "inFolderBelow",
     "attachmentPath": "/${notename}.assets",
     "attachFormat": "IMG-${date}",
-    "type": "GLOBAL"
+    "type": "GLOBAL",
+    "extensionOverride": []
   },
   "dateFormat": "YYYYMMDDHHmmssSSS",
   "excludeExtensionPattern": "",

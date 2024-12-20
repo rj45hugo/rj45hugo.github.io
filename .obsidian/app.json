@@ -12,5 +12,6 @@
   ],
   "newFileLocation": "folder",
   "newFileFolderPath": "_posts",
-  "newLinkFormat": "shortest"
+  "newLinkFormat": "absolute",
+  "uriCallbacks": false
 }
