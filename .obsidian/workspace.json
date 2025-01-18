@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "4d4e1b17c3794de3",
+        "id": "6d229cfdbd204283",
         "type": "tabs",
         "children": [
           {
-            "id": "6c9e087df99df713",
+            "id": "de1cb050ab1c7abc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_posts/2024-10-11-工作环境配置.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "2024-10-11-工作环境配置"
+              "title": "新标签页"
             }
           }
         ]
@@ -93,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2024-10-11-工作环境配置.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +98,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "2024-10-11-工作环境配置 的反向链接列表"
+              "title": "反向链接"
             }
           },
           {
@@ -163,12 +158,13 @@
       "hidden-folder-obsidian:隐藏文件夹": false
     }
   },
-  "active": "6c9e087df99df713",
+  "active": "143253a2fc11305f",
   "lastOpenFiles": [
-    "assets/blog_res/2024-10-11-工作环境配置.assets/IMG-20241220235029060.png",
+    "_posts/2025-01-13.md",
     "_posts/2024-10-11-工作环境配置.md",
-    "assets/blog_res/2024-10-11-工作环境配置.assets/Pasted image 20241010113810.png",
     "_posts/2024-12-20-.md",
+    "assets/blog_res/2024-10-11-工作环境配置.assets/IMG-20241220235029060.png",
+    "assets/blog_res/2024-10-11-工作环境配置.assets/Pasted image 20241010113810.png",
     "assets/blog_res/2024-10-11-工作环境配置.assets/Pasted image 20241010002829.png",
     "assets/blog_res/2024-12-20-.assets/IMG-20241220233856585.png",
     "assets/blog_res/2024-12-20-.assets/IMG-20241220233650241.png",
