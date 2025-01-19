@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "6d229cfdbd204283",
+        "id": "e37bfaa5a625e242",
         "type": "tabs",
         "children": [
           {
-            "id": "de1cb050ab1c7abc",
+            "id": "12acd026097ff7c2",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -163,11 +163,11 @@
       "hidden-folder-obsidian:隐藏文件夹": false
     }
   },
-  "active": "de1cb050ab1c7abc",
+  "active": "12acd026097ff7c2",
   "lastOpenFiles": [
+    "_posts/2024-12-20-测试.md",
     "_posts/2025-01-13.md",
     "_posts/2024-10-11-工作环境配置.md",
-    "_posts/2024-12-20-测试.md",
     "assets/blog_res/2024-10-11-工作环境配置.assets/IMG-20241220235029060.png",
     "assets/blog_res/2024-10-11-工作环境配置.assets/Pasted image 20241010113810.png",
     "assets/blog_res/2024-10-11-工作环境配置.assets/Pasted image 20241010002829.png",
@@ -180,7 +180,6 @@
     "_posts/().md",
     "assets/blog_res/2024-10-11-工作环境配置.assets/IMG-20241220233026865.png",
     "assets/blog_res/2024-10-11-工作环境配置.assets/Pasted image 20241010115850.png",
-    "_posts/2024-12-20-测试.md",
     "assets/blog_res/2024-12-20-测试.assets",
     "2024-12-20-测试.assets",
     "个人博客/assets/blog_res/2024-12-20-测试.assets",
