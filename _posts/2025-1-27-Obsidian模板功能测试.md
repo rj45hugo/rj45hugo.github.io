@@ -1,7 +1,7 @@
 ---
 title: Obsidian模板功能测试
 description: 使用Obsidian的模板功能辅助撰写博客
-author: rj45hugo
+author: 
 date: 2025-01-27 00-05-24 +0800
 categories:
   - Obsidian
