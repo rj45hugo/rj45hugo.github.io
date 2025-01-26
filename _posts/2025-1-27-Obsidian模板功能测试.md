@@ -12,7 +12,7 @@ pin: true
 math: true
 mermaid: true
 image:
-  path: /assets/blog_res/2025-1-27-0 bsidian模板功能测试.assets/IMG-20250127002609873
+  path: /assets/blog_res/2025-1-27-Obsidian模板功能测试.assets/IMG-20250127002609873.png
   lqip: data:image/webp;base64,UklGRpoAAABXRUJQVlA4WAoAAAAQAAAADwAABwAAQUxQSDIAAAARL0AmbZurmr57yyIiqE8oiG0bejIYEQTgqiDA9vqnsUSI6H+oAERp2HZ65qP/VIAWAFZQOCBCAAAA8AEAnQEqEAAIAAVAfCWkAALp8sF8rgRgAP7o9FDvMCkMde9PK7euH5M1m6VWoDXf2FkP3BqV0ZYbO6NA/VFIAAAA
   alt:
 ---
