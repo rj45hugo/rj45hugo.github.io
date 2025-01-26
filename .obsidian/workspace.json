@@ -4,18 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "0347624aa2737a61",
+        "id": "a3a111b865c276c2",
         "type": "tabs",
         "children": [
           {
-            "id": "de0ce1cd1c9c6348",
+            "id": "3227dd2bd90616e2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "_posts/2025-1-27-Obsidian模板功能测试.md",
-                "mode": "preview",
-                "source": true
+                "mode": "source",
+                "source": false
               },
               "icon": "lucide-file",
               "title": "2025-1-27-Obsidian模板功能测试"
@@ -163,12 +163,12 @@
       "hidden-folder-obsidian:显示文件夹": false
     }
   },
-  "active": "de0ce1cd1c9c6348",
+  "active": "3227dd2bd90616e2",
   "lastOpenFiles": [
-    "README.md",
+    "_posts/2025-1-27-Obsidian模板功能测试.md",
     "_posts/2024-10-11-工作环境配置.md",
     "_posts/2024-12-20-测试.md",
-    "_posts/2025-1-27-Obsidian模板功能测试.md",
+    "README.md",
     "assets/blog_res/2025-1-27-Obsidian模板功能测试.assets/IMG-20250127002609873.png",
     "assets/blog_res/2025-1-27-Obsidian模板功能测试.assets",
     "Templates/Snipaste_2025-01-27_00-25-08.jpg",
