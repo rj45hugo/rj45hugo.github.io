@@ -1,0 +1,11 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "categories": "multitext",
+    "mermaid": "checkbox",
+    "image": "text",
+    "pin": "checkbox"
+  }
+}
